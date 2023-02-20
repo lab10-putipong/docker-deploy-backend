@@ -1,6 +1,6 @@
 version: '3.3'
 services:
-backend:
-  image: dckr_pat_9cd4OU0OLMY-9m3LRAfNPyiVMX8
-  prots:
-    - "8085:8080"
+  backend:
+    image: dckr_pat_9cd4OU0OLMY-9m3LRAfNPyiVMX8
+    ports:
+      - "8085:8080"
