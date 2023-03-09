@@ -3,4 +3,4 @@ services:
   backend:
     image: putipongsailen/234-deploylab-backend:latest
     ports:
-      - "8085:8080"
+      - "8023:8080"
